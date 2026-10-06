@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "6984aaf4ea564724f1f70387"
+  },
+  "title": "Goa",
+  "country": "india",
+  "description": "Goa's specialties include its stunning beaches, vibrant nightlife, Portuguese-Indian fusion culture, and delicious seafood-heavy cuisine, famous for dishes like Fish Curry Rice and Pork Vindaloo, along with unique spirits like Feni and sweets like Bebinca, plus unique shopping items such as cashew nuts, local spices, and handcrafted goods.",
+  "pricePerNight": 4500,
+  "rating": 4.5,
+  "images": [
+    "https://res.cloudinary.com/dpbk7eq2z/image/upload/v1770302234/travel_destinations/v9kzw91ikh9bgiefcssp.jpg",
+    "https://res.cloudinary.com/dpbk7eq2z/image/upload/v1770302236/travel_destinations/fsymgwsv1xmqxk3vcso3.jpg",
+    "https://res.cloudinary.com/dpbk7eq2z/image/upload/v1770302237/travel_destinations/acixhj8ubnm9wwxtvidj.jpg",
+    "https://res.cloudinary.com/dpbk7eq2z/image/upload/v1770302236/travel_destinations/opjpe7rtel59l9pedabg.jpg",
+    "https://res.cloudinary.com/dpbk7eq2z/image/upload/v1770302240/travel_destinations/dxnto8vzemxiuiiyjevg.jpg"
+  ],
+  "isFeatured": false,
+  "createdAt": {
+    "$date": "2026-02-05T14:36:36.513Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-05T14:59:06.380Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6984b425ea564724f1f703bb"
+  },
+  "title": "Dubai Luxury Escape",
+  "country": "United Arab Emirates",
+  "description": "Dubai is a global hub of luxury and innovation, featuring record-breaking skyscrapers, world-class shopping, golden deserts, and pristine beaches. Known for its safety, hospitality, and unforgettable entertainment, Dubai provides travelers with a perfect mix of adventure, relaxation, and cultural richness.",
+  "pricePerNight": 12000,
+  "rating": 4.8,
+  "images": [
+    "https://res.cloudinary.com/dpbk7eq2z/image/upload/v1770304545/travel_destinations/zwlbqlvscsrbefzmbajd.jpg",
+    "https://res.cloudinary.com/dpbk7eq2z/image/upload/v1770304547/travel_destinations/ad4zvpdkzth3bawktr1n.jpg",
+    "https://res.cloudinary.com/dpbk7eq2z/image/upload/v1770304549/travel_destinations/epmnkgtrrlbxao3lkztm.jpg",
+    "https://res.cloudinary.com/dpbk7eq2z/image/upload/v1770304548/travel_destinations/xacxgw2sinjcnhevqfz7.jpg"
+  ],
+  "isFeatured": false,
+  "createdAt": {
+    "$date": "2026-02-05T15:15:49.969Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-05T15:15:49.969Z"
+  },
+  "__v": 0
+}]

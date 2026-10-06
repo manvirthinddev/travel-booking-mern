@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6978ea8fc126d99829690b3a"
+  },
+  "name": "Manvir Thind",
+  "email": "manvirthind10@gmail.com",
+  "password": "$2b$10$JXZyryVDymDACv.30gnkru0Euq67sukRxp2Gj0Q9.5Z/DNniAR8Ke",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2026-01-27T16:40:47.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-27T16:40:47.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697a46d5acd15e01b5739e39"
+  },
+  "name": "Mehak",
+  "email": "thindmehak27@gmail.com",
+  "password": "$2b$10$H0BmtYaj3qQFMWIeo/dhjehR6eoCeVEPNDUkG7huFUIy/zvlQTY.O",
+  "role": "user",
+  "createdAt": {
+    "$date": "2026-01-28T17:26:45.239Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-05T17:10:03.010Z"
+  },
+  "__v": 0
+}]

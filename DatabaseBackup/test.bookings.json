@@ -1,0 +1,87 @@
+[{
+  "_id": {
+    "$oid": "6984cdc37eb9048abfd83f2b"
+  },
+  "user": {
+    "$oid": "697a46d5acd15e01b5739e39"
+  },
+  "destination": {
+    "$oid": "6984b425ea564724f1f703bb"
+  },
+  "checkInDate": {
+    "$date": "2026-02-13T00:00:00.000Z"
+  },
+  "checkOutDate": {
+    "$date": "2026-02-17T00:00:00.000Z"
+  },
+  "guests": 2,
+  "totalPrice": 86400,
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-05T17:05:07.833Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-05T17:17:45.688Z"
+  },
+  "__v": 0,
+  "bookingStatus": "cancelled",
+  "cancelReason": "due to health issues"
+},
+{
+  "_id": {
+    "$oid": "6984d0cf2696fd0a445b7f95"
+  },
+  "user": {
+    "$oid": "697a46d5acd15e01b5739e39"
+  },
+  "destination": {
+    "$oid": "6984aaf4ea564724f1f70387"
+  },
+  "checkInDate": {
+    "$date": "2026-02-13T00:00:00.000Z"
+  },
+  "checkOutDate": {
+    "$date": "2026-02-18T00:00:00.000Z"
+  },
+  "guests": 2,
+  "totalPrice": 40500,
+  "paymentStatus": "paid",
+  "bookingStatus": "confirmed",
+  "cancelReason": "",
+  "createdAt": {
+    "$date": "2026-02-05T17:18:07.235Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-05T17:18:15.752Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69863f38905c190fe281781c"
+  },
+  "user": {
+    "$oid": "697a46d5acd15e01b5739e39"
+  },
+  "destination": {
+    "$oid": "6984aaf4ea564724f1f70387"
+  },
+  "checkInDate": {
+    "$date": "2026-02-14T00:00:00.000Z"
+  },
+  "checkOutDate": {
+    "$date": "2026-02-18T00:00:00.000Z"
+  },
+  "guests": 4,
+  "totalPrice": 32400,
+  "paymentStatus": "paid",
+  "bookingStatus": "confirmed",
+  "cancelReason": "",
+  "createdAt": {
+    "$date": "2026-02-06T19:21:28.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-06T19:22:03.937Z"
+  },
+  "__v": 0
+}]
